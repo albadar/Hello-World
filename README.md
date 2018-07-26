@@ -1,11 +1,6 @@
 # Hello-World
-Hello to allasdfut there
+Hello to all the developers out there!
 
 Making changes in life.
 
-
-So this will be pull reqeues for edits2
-asdfasdfasd
-
-
-asdfasdf
+let x = blah
